@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/GaojiSet_1.png</file>
+        <file>resources/GaojiSet_2.png</file>
+        <file>resources/JieGuanSet.png</file>
+        <file>resources/RenwuGuanli.png</file>
+        <file>resources/TiXing.png</file>
+        <file>resources/XiaZai.png</file>
+        <file>resources/XuanFuChuang.png</file>
+        <file>resources/YunPanSet.png</file>
+    </qresource>
+</RCC>
